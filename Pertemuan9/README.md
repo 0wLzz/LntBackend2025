@@ -9,6 +9,7 @@
 
 <br>
 
+![Routing](public/assets/11.jpg)
 <h2>Routing</h2>
 <p><b>Routing</b> adalah mekanisme yang menghubungkan URL dengan logika atau fungsi tertentu di aplikasi. Routing juga berfungsi untuk menangani semua URL yang diminta pada aplikasi web. <br>
 
@@ -29,10 +30,13 @@ Routing biasanya akan diatur di folder yang bernama **routes**</p>
 
 <br>
 
+![Named Routes](public/assets/13.jpg)
+
 <h2>Named Routes</h2>
 <p><b>Named Routes</b> di Laravel digunakan untuk memberikan nama pada setiap rute. Fitur ini berguna untuk memudahkan akses rute dalam kode, terutama saat membuat link atau redirect. </p>
 
 <br>
 
+![Group Routes](public/assets/16.jpg)
 <h2>Group Routes</h2>
 <p><b>Group Routes</b> Laravel adalah fitur yang memungkinkan pengelompokan rute-rute yang memiliki atribut yang sama. Fitur ini dapat membantu mengurangi redundansi kode dan membuat struktur rute lebih terorganisir.  </p>
