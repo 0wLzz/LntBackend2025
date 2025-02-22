@@ -1,7 +1,4 @@
 <h1>Pretemuan 9</h1>
-<br>
-<br>
-
 <h3>Learning Outcome's</h3>
 <ul>
     <li>Routing in Laravel</li>
