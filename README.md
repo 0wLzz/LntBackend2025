@@ -52,7 +52,7 @@ git clone https://github.com/0wLzz/LntBackend2025
 2️⃣ Navigate to the project folder:  
 
 ```bash
-cd lnt-backend-bncc
+cd LntBackend2025
 ```
 
 3️⃣ Start your PHP server or Laravel environment (depending on the session).  
