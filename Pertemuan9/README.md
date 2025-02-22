@@ -1,5 +1,11 @@
 ![Logo BNCC](public/assets/Header.png)
 <h1>Pretemuan 9</h1>
+
+## 👇👇Link Canva 
+```bash
+https://www.canva.com/design/DAGfEYRoMbs/CiNZdGL7HEJTCjeigXRTKg/edit?utm_content=DAGfEYRoMbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+```
+
 <h3>Learning Outcome's</h3>
 <ul>
     <li>Routing in Laravel</li>
@@ -11,7 +17,7 @@
 <br>
 
 ![Routing](public/assets/11.jpg)
-<h2>Routing</h2>
+<h2>🛜Routing</h2>
 <p><b>Routing</b> adalah mekanisme yang menghubungkan URL dengan logika atau fungsi tertentu di aplikasi. Routing juga berfungsi untuk menangani semua URL yang diminta pada aplikasi web. <br>
 
 Routing biasanya akan diatur di folder yang bernama **routes**</p>
