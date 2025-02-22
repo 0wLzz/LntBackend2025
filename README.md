@@ -33,11 +33,11 @@ Here’s a sneak peek of what we’ll learn:
 ### 🌱 Semester 2: Laravel Magic  
 8️⃣ Introduction to Laravel  
 9️⃣ Routing in Laravel  
-🔟 Controllers and Views  
-1️⃣1️⃣ Models and Eloquent ORM  
-1️⃣2️⃣ Middleware and Authentication  
+🔟 Database Migrations, Models and Eloquent ORM 
+1️⃣1️⃣ Laravel Security
+1️⃣2️⃣ File Handler
 1️⃣3️⃣ API Development with Laravel  
-1️⃣4️⃣ Final Project Showcase  
+1️⃣4️⃣ Final Project & Git  
 
 ---
 
@@ -46,7 +46,7 @@ Here’s a sneak peek of what we’ll learn:
 1️⃣ Clone this repository:  
 
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/0wLzz/LntBackend2025
 ```
 
 2️⃣ Navigate to the project folder:  
@@ -73,7 +73,3 @@ Happy coding, everyone! 🎉👩‍💻👨‍💻
 
 **🧑‍🏫 Owen Limantoro**  
 *LNT Backend Instructor | BNCC Praetorian*  
-
----
-
-Let me know if you’d like me to tweak or add anything here! 🚀✨  
