@@ -10,7 +10,7 @@
 <br>
 
 <h2>Routing</h2>
-<p><b>Routing</b> adadlah mekanisme yang menghubungkan URL dengan logika atau fungsi tertentu di aplikasi. Routing juga berfungsi untuk menangani semua URL yang diminta pada aplikasi web. <br>
+<p><b>Routing</b> adalah mekanisme yang menghubungkan URL dengan logika atau fungsi tertentu di aplikasi. Routing juga berfungsi untuk menangani semua URL yang diminta pada aplikasi web. <br>
 
 Routing biasanya akan diatur di folder yang bernama **routes**</p>
 
