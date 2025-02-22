@@ -1,7 +1,3 @@
-Here’s a cleaner and more polished version of your README — keeping it interactive and organized! 🚀  
-
----
-
 ![BNCC Logo](public/assets/Header.png)  
 
 # 🧑‍💻 Pertemuan 9 — LNT Backend BNCC  
