@@ -32,10 +32,10 @@ Here’s a sneak peek of what we’ll learn:
 
 ### 🌱 Semester 2: Laravel Magic  
 8️⃣ Introduction to Laravel  
-9️⃣ Routing in Laravel  
-🔟 Database Migrations, Models and Eloquent ORM 
-1️⃣1️⃣ Laravel Security
-1️⃣2️⃣ File Handler
+9️⃣ Routing in Laravel<br>
+🔟 Database Migrations, Models and Eloquent ORM<br> 
+1️⃣1️⃣ Laravel Security<br>
+1️⃣2️⃣ File Handler<br>
 1️⃣3️⃣ API Development with Laravel  
 1️⃣4️⃣ Final Project & Git  
 
